@@ -14,4 +14,4 @@ This simple project takes Party Parrot GIFs from Cult of the Party Parrot and di
 
 ## Demo:
 
-![](demo_parrot.gif)
+![](demo_parrot.GIF)
