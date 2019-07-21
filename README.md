@@ -11,3 +11,7 @@ This simple project takes Party Parrot GIFs from Cult of the Party Parrot and di
 - Get your GIFs here: https://cultofthepartyparrot.com/
 - Python Package: https://github.com/hzeller/rpi-rgb-led-matrix
 - Hardware: https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi/driving-matrices://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi/driving-matrices
+
+## Demo:
+
+![](demo_parrot.gif)
